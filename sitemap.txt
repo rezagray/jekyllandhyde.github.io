@@ -1,0 +1,5 @@
+https://jekyllandhyde.netlify.app/2020-02-26-flake-it-till-you-make-it
+https://jekyllandhyde.netlify.app/2020-02-28-test-markdown
+https://jekyllandhyde.netlify.app/aboutme
+https://jekyllandhyde.netlify.app/contact-us
+https://jekyllandhyde.netlify.app/privacy-policy
